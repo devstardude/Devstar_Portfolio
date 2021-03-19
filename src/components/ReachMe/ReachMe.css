@@ -1,0 +1,24 @@
+.reachme-text{
+    font-weight: 800;
+}
+
+.reachme-info{
+    color: #686868;
+  letter-spacing: 0.4px;
+  line-height: 2; 
+}
+.reachme-info-bold{
+    font-weight: 800;
+}
+
+
+.reachme-link{
+    font-weight: 700;
+    color: #070707;
+    border-bottom: 2px solid black;
+}
+.reachme-link:hover{
+color: #070707;
+    text-decoration: none;
+
+}

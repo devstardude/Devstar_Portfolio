@@ -1,0 +1,43 @@
+.Projects-text {
+  font-weight: 600 !important;
+}
+.Projects-info {
+  color: rgb(104, 104, 104);
+  letter-spacing: 0.4px;
+  line-height: 2;
+}
+.TopProjectRow p {
+  line-height: 2;
+}
+.HotIcon {
+  font-size: 50px !important;
+  color: rgb(218, 0, 0);
+}
+.ExploreIcon {
+  color: rgba(0, 0, 0, 0.856);
+  font-size: 30px !important;
+}
+.youtube-container {
+  border-radius: 10px;
+  height: 325px;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+  }
+  .video-container iframe,
+  .video-container object,
+  .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}

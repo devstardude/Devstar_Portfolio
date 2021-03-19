@@ -1,0 +1,9 @@
+.CustomButton :is(a,button) {
+    width: 12rem;
+  color: #45a5dd!important;
+  border: 1px solid #45a5dd !important;
+}
+.CustomButton :is(a:hover,button:hover)  {
+  color: whitesmoke!important;
+  background-color: #45a5dd !important ;
+}

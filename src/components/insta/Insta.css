@@ -1,0 +1,27 @@
+.Insta-bottom-link {
+  font-weight: 600;
+  color: #070707;
+  
+}
+.Insta-bottom-link:hover {
+  border-bottom: 2.7px solid black;
+  padding-bottom: 2px;
+  text-decoration: none;
+  color: #070707;
+}
+.Insta-bottom-link-arrow {
+  font-weight: 800;
+  padding-bottom: 4px;
+}
+
+@media (max-width: 768px) {
+  .Insta-bottom-link {
+    font-size: 1rem;
+  }
+  .Insta-bottom-link-arrow {
+  font-weight: 800;
+  padding-top: 5px;
+  
+}
+}
+

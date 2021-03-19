@@ -1,0 +1,29 @@
+.Head-hr {
+  display: inline-block;
+  border-top: 2px solid #777777;
+  border-radius: 5px;
+  width: 80%;
+}
+
+.Head-fab {
+  display: block;
+  text-align: center;
+  background-color: #ffffff !important;
+  border: 2px solid #777777 !important ;
+  box-shadow: none !important;
+}
+.Head-fab:hover {
+  color: rgb(0, 0, 0);
+}
+
+@media (min-width: 768px) {
+  .Head-hr {
+    border-top: 2px solid #777777;
+    border-radius: 15px;
+    width: 20vw;
+    margin-right:2%
+  }
+  .allignn {
+    display: inline;
+  }
+}

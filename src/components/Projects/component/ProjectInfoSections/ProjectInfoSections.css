@@ -1,0 +1,69 @@
+.ProjectInfoSectionTabsDiv {
+  overflow-y: auto;
+  height: 53vh;
+  width: 100%;
+}
+.ProjectInfo-YoutubeContainer{
+  border-radius: 10px;
+  height: 40vh;
+  width: 100%;
+}
+.youtube-container {
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+}
+.FeaturesDiv :is(p){
+  line-height: 2;
+}
+.ProjectInfo-Image{
+  border-radius: 10px;
+  width: 90%;
+}
+
+.ProjectInfoSectionTabsDiv::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+.ProjectInfoSectionTabsDiv::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+.ProjectInfoSectionTabsDiv::-webkit-scrollbar-thumb {
+  background: #1cb2fd;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+.ProjectInfoSectionTabsDiv::-webkit-scrollbar-thumb:hover {
+  background: #0683d0;
+}
+.ProjectInfoSectionTabsDiv::-webkit-scrollbar-thumb:active {
+  background: #000000;
+}
+.ProjectInfoSectionTabsDiv::-webkit-scrollbar-track {
+  background: #ededed;
+  border: 0px none #ffffff;
+  border-radius: 1px;
+}
+.ProjectInfoSectionTabsDiv::-webkit-scrollbar-track:hover {
+  background: #e8e8e8;
+}
+.ProjectInfoSectionTabsDiv::-webkit-scrollbar-track:active {
+  background: #e0e0e0;
+}
+.ProjectInfoSectionTabsDiv::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+
+@media(max-width:768px){
+  .ProjectInfoSectionTabsDiv {
+  height: 45vh;
+}
+.ProjectInfo-YoutubeContainer{
+  height: 23vh;
+}
+.ProjectInfo-Image{
+  width: 100%;
+}
+}
