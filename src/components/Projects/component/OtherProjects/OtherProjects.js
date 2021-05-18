@@ -7,7 +7,7 @@ const OtherProjects = (props) => {
     <div className="container-fluid">
       <h2 className="Projects-text">Other Projects</h2>
       <div className="Projects-info pt-2">
-        These are some other Projects I made while Learning.
+        These are some other Projects I made while Learning. (Click on project to know more)
       </div>
       <div className="mt-4">
         <OtherProjectsTabs />

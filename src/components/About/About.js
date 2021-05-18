@@ -18,7 +18,7 @@ const About = (props) => {
             <span style={{ fontWeight: 700 }}>Great web experiences</span>.
             Coding and Designing have been my passion since the days I started
             working with computers but I found myself in Web development since
-            last year.
+            last two year.
             <br />I enjoy creating{" "}
             <span style={{ fontWeight: 700 }}>
               Beautifully designed, intuitive and functional websites.

@@ -80,7 +80,7 @@ const TopProject = (props) => {
             </div>
             <div className="col-12 col-md-6 pt-4 pt-md-0">
               <div className="d-flex align-items-center py-1">
-                <h4>
+                <h4 className="Top-project-name">
                   Visite - A place tracker
                   <span className="px-2 ">
                     <ExploreIcon className="ExploreIcon" />
@@ -98,7 +98,7 @@ const TopProject = (props) => {
               </p>
               <ProjectModal
                 name="Visite - A place tracker"
-                imageUrl={Image}
+                youtubeLink="https://www.youtube.com/embed/ErOUmq8xVZg"
                 features={features}
                 stack={stack}
                 projectLink={projectLink}

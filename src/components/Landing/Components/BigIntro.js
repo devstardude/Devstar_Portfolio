@@ -1,7 +1,7 @@
 import { Fade} from '@material-ui/core';
 import React from 'react';
 
-import'./BigIntro.css';
+import './BigIntro.css';
 
 const BigIntro = (props)=>{
     return (
