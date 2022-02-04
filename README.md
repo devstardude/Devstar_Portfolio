@@ -1,6 +1,6 @@
-# This is my portfolio website
+# This is my first portfolio website
 
-### Here's the link to current website :
+### Here's the link to my current website :
 [Portfolio](https://devstardude.web.app/ "Portfolio")
 
 ### Here are my social links
