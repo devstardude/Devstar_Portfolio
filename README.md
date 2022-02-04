@@ -1,8 +1,6 @@
 # This is my portfolio website
 
-### If anyone want to use this as template they can use it freely.
-
-### Here's the link to the website :
+### Here's the link to current website :
 [Portfolio](https://devstardude.web.app/ "Portfolio")
 
 ### Here are my social links
